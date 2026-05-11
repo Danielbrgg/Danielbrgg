@@ -1,23 +1,16 @@
 ### Olá! Eu sou o Daniel
 
-
-<!--<div align="left">
-  <img height="180em" src="https://lanyard.main.lv/api/551021792198787073?theme=dark&bg=0d1117&animated=true" />
+<div align="left">
+  <img height="180em" src="https://raw.githubusercontent.com/Danielbrgg/Danielbrgg/main/github-metrics.svg" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbrgg&layout=compact&langs_count=7&theme=radical"/>
-</div> -->
-
+</div>
 
 <br>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,git" />
 </div>
-
-<!-- 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,cs,git" />
-</div>
--->
 
 <br>
 
