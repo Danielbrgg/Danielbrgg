@@ -1,20 +1,51 @@
-### Olá! Eu sou o Daniel
-<!--
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielbrgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbrgg&layout=compact&langs_count=16&theme=dracula"/>
-</div>
--->
+<h1 align="center">Hello! I'm Daniel 👋</h1>
 
-<br>
+<p align="center">
+  <i>💻 Tech Student & Developer | Passionate about programming and building solutions.</i>
+</p>
 
-<div align="left">
+---
+
+<details>
+  <summary><b>👨‍💻 A little more about me</b></summary>
+  <br>
+  <ul>
+    <li>🎓 <b>Systems Development</b> student constantly learning and building new projects.</li>
+    <li>🛠 Experience working with <b>PHP, MySQL, JavaScript, HTML, and CSS</b>.</li>
+    <li>☕ Currently focusing my studies on learning <b>Java</b> and Object-Oriented Programming.</li>
+    <li>🎮 Also familiar with building projects in <b>C#</b>.</li>
+    <li>📈 Constantly improving my problem-solving skills and <b>clean code</b> practices.</li>
+    <li>🌍 <b>Intermediate English</b> (comfortable reading, writing, and communicating in tech environments).</li>
+    <li>🤝 Always open to collaborating on projects and networking!</li>
+  </ul>
+</details>
+
+---
+
+<p align="center">
+ <img align="center" src="https://streak-stats.demolab.com?user=Danielbrgg&theme=tokyonight&hide_border=true" height="165"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Danielbrgg&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+<h3 align="center">🚀 Technologies & Tools</h3>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,git" />
 </div>
 
-<br>
+<!--
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysqljava,cs,js,html,css,git" />
+</div>
+-->
 
-<div align="left">
+---
+
+<h3 align="center">📫 Connect with me</h3>
+
+<p align="center">
   <a href="https://www.instagram.com/https__dan/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
@@ -27,4 +58,4 @@
   <a href="https://www.linkedin.com/in/daniel-braga-b890903b4/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</div>
+</p>
