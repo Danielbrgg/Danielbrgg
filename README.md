@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Daniel
-
+<!--
 <div align="left">
-  <img height="180em" src="https://raw.githubusercontent.com/Danielbrgg/Danielbrgg/main/github-metrics.svg" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbrgg&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danielbrgg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbrgg&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+-->
 
 <br>
 
@@ -15,6 +15,9 @@
 <br>
 
 <div align="left">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
   <a href="https://www.instagram.com/https__dan/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
