@@ -37,7 +37,7 @@
 <h3 align="center">🚀 Technologies & Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,cs,py,js,html,css,git" />
 </div>
 
 ---
