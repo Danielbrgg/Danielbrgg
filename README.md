@@ -37,9 +37,14 @@
 <h3 align="center">🚀 Technologies & Tools</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,py,js,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,git" />
 </div>
 
+<!--
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysqljava,cs,js,html,css,git" />
+</div>
+-->
 ---
 
 <picture align="center">
@@ -49,11 +54,6 @@
 </picture>
 
 #
-<!--
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysqljava,cs,js,html,css,git" />
-</div>
--->
 
 <h3 align="center">📫 Connect with me</h3>
 
